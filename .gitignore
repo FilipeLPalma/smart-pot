@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.o
+*.elf
+
+# Build directories
+build/
+
+# Editor temporary files
+*.swp
